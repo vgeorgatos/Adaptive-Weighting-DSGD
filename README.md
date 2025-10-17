@@ -19,12 +19,15 @@ FedLab 1.3.0
 ## References
 
 If you found useful these  codes please cite the following papers:
+
+```latex
 @INPROCEEDINGS{10095741,
   author={Georgatos, Evangelos and Mavrokefalidis, Christos and Berberidis, Kostas},
   booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
   title={Fully Distributed Federated Learning with Efficient Local Cooperations}, 
   year={2023},
   doi={10.1109/ICASSP49357.2023.10095741}}
+```
 Journal version 
 (to be announced soon)
 
