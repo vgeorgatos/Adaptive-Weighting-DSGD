@@ -7,16 +7,21 @@ Recently, a shift has been observed towards the so-called edge machine learning,
 
 ## Usage
 
+
 Methods are implemented as Jupyter notebooks (.ipynb) for easy usage and are based on the PyTorch library. Codes are implmented to run on a single GPU.
 Notebooks can be also easily converted to .py python files for command line execution ( https://mljar.com/blog/convert-jupyter-notebook-python/).
 
 ## Libraries
 
+
 Python 3.11.5
+
 PyTorch 2.6.0+cu118
+
 FedLab 1.3.0
 
 ## References
+
 
 If you found useful these  codes please cite the following papers:
 
